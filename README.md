@@ -31,19 +31,24 @@ Setelah alias dibuat, Anda dapat menjalankan JamTeng dengan perintah berikut:
 
 - Untuk menyuarakan suara pria:
   ```bash
-  jamteng p bw
+  jamteng p bp
   ```
-  [File suara](jamTeng/opt/jamTeng/mp3/buatanSendiri/id/pria) 🎤
+  [File suara pria](jamTeng/opt/jamTeng/mp3/buatanSendiri/id/pria) 🎤
 
 - Untuk menyuarakan suara wanita:
   ```bash
   jamteng p ww
+  jamteng p bw
   ```
-  [File suara](jamTeng/opt/jamTeng/mp3/wide8/id/wanita) 🎶
+  [File suara wanita 1](jamTeng/opt/jamTeng/mp3/wide8/id/wanita) 🎶
+  [File suara wanita 2](jamTeng/opt/jamTeng/mp3/buatanSendiri/id/wanita) 🎶
+  
+## Kadaluwarsa
+JamTeng akan [kadaluwarsa](jamTeng/kadaluwarsa.txt) 
 
 ## Kontak
-Kami sangat menghargai masukan dari Anda! 💌 Jika Anda memiliki saran atau kritik, silakan kirim email ke [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com).
+Kami sangat menghargai masukan dari Anda! 💌 Jika Anda memiliki saran, kritik, atau ingin memperlama masa kadaluwarsa  silakan kirim email ke [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com).
 
 ---
 
-Jangan ragu untuk mencoba **JamTeng** dan nikmati pengalaman baru dalam menyuarakan waktu! Terima kasih telah menggunakan aplikasi kami! 🙌✨
+Yakinkan Anda untuk mencoba **JamTeng** dan nikmati pengalaman baru dalam menyuarakan waktu! Terima kasih telah menggunakan aplikasi kami! 🙌✨
