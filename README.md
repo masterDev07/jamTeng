@@ -1,4 +1,4 @@
-# JamTeng - Aplikasi Jam Suara dalam Bahasa Indonesia untuk Linux 🎶
+# JamTeng - Aplikasi Jam Suara dalam Bahasa Indonesia di Linux 🎶
 
 ## Perkenalan JamTeng
 Selamat datang di JamTeng! 🌟 Aplikasi inovatif yang memungkinkan Anda untuk menyuarakan waktu dalam bahasa Indonesia di sistem operasi Linux! Dengan fitur penjadwalan yang fleksibel, Anda dapat mengatur pengingat setiap seperempat, setengah, atau satu jam. Apakah Anda ingin mendengar suara pria atau wanita? JamTeng memiliki semua yang Anda butuhkan untuk pengalaman yang menyenangkan dan informatif.
@@ -45,7 +45,7 @@ Setelah alias dibuat, Anda dapat menjalankan JamTeng dengan perintah berikut:
   [File suara wanita 2](jamTeng/opt/jamTeng/mp3/buatanSendiri/id/wanita) 🎶
 
 ## Penjadwalan
-Buat jadwal sesuai pilih Anda
+Buat jadwal sesuai pilihan Anda
   ```bash
 jamteng bj bp  # Jadwalkan suara pria
 jamteng bj bw  # Jadwalkan suara wanita (1)
@@ -64,7 +64,7 @@ File untuk koreksi JamTeng [configuration_jamTeng.conf](jamTeng/opt/jamTeng/conf
 Masa aktif JamTeng [kadaluwarsa](jamTeng/kadaluwarsa.txt) 
 
 ## Kontak
-Kami sangat menghargai masukan dari Anda! 💌 Jika Anda memiliki saran, kritik, atau ingin memperlama masa kadaluwarsa  silakan kirim email ke [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com).
+Kami sangat menghargai masukan dari Anda! 💌 Jika Anda memiliki saran, kritik, atau ingin memperpanjang masa kadaluwarsa  silakan kirim email ke [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com).
 
 ---
 
