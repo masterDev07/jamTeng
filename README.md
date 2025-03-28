@@ -17,7 +17,7 @@ Salah satu fitur unggulan dari JamTeng adalah kemampuan untuk membisukan suara p
 Untuk menginstal JamTeng, cukup jalankan perintah berikut di terminal Anda:
 
 ```bash
-dpkg -i jamTeng.deb
+sudo dpkg -i jamTeng.deb
 ```
 
 Setelah instalasi selesai, buat alias untuk memudahkan akses:
@@ -40,11 +40,28 @@ Setelah alias dibuat, Anda dapat menjalankan JamTeng dengan perintah berikut:
   jamteng p ww
   jamteng p bw
   ```
+
   [File suara wanita 1](jamTeng/opt/jamTeng/mp3/wide8/id/wanita) 🎶
   [File suara wanita 2](jamTeng/opt/jamTeng/mp3/buatanSendiri/id/wanita) 🎶
-  
+
+## Penjadwalan
+Buat jadwal sesuai pilih Anda
+  ```bash
+jamteng bj bp  # Jadwalkan suara pria
+jamteng bj bw  # Jadwalkan suara wanita (1)
+jamteng bj ww  # Jadwalkan suara wanita (2)
+  ```
+
+Hapus jadwal
+  ```bash
+  jamteng hj
+  ```
+
+## Konfigurasi
+File untuk koreksi JamTeng [configuration_jamTeng.conf](jamTeng/opt/jamTeng/configuration_jamTeng.conf)
+
 ## Kadaluwarsa
-JamTeng akan [kadaluwarsa](jamTeng/kadaluwarsa.txt) 
+Masa aktif JamTeng [kadaluwarsa](jamTeng/kadaluwarsa.txt) 
 
 ## Kontak
 Kami sangat menghargai masukan dari Anda! 💌 Jika Anda memiliki saran, kritik, atau ingin memperlama masa kadaluwarsa  silakan kirim email ke [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com).
