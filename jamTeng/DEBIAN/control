@@ -1,8 +1,0 @@
-Package: jamTeng
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: all
-Depends: mpg123 
-Maintainer: Endro Mei Asmoro <dolarmoro@yahoo.com>
-Description: Speaking clock in Bahasa Indonesia

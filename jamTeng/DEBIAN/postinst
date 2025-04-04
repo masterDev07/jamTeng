@@ -1,5 +1,0 @@
-#!/bin/bash
-set -e
-# Salin file ke direktori home pengguna yang sedang aktif
-USER_HOME=$(eval echo ~${SUDO_USER})
-exit 0
